@@ -11,7 +11,7 @@
 <br/>
 
 - 😊 &nbsp; Exploring new technologies & developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Instrumentation at NIT Trichy.
+- 🎓 &nbsp; Studying Computer Science & Instrumentation at NIT Trichy.
 - 💼 &nbsp; Upcoming full-time Software Engineer at Microsoft!
 - 😇 &nbsp; Algorithmist & Problem Solver!
 
