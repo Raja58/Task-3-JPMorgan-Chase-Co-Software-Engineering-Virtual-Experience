@@ -7,3 +7,5 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja58&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+
+<a href="https://github.com/Raja58"><img alt="graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raja58&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
