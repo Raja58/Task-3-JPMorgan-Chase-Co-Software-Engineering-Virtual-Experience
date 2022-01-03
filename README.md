@@ -3,11 +3,11 @@
 </p>
 
 <a href="https://github.com/Raja58">
-  <img height="200em" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja58&theme=dark&layout=compact" />
+  <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja58&theme=dark&layout=compact" />
 </a>
 <p align="right">
   <a href="https://github.com/Raja58">
-    <img title="get streak" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja58&theme=monokai-metallian&hide_border=true"/>
+    <img height="180em" title="get streak" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja58&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
