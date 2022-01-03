@@ -7,7 +7,7 @@
 </a>
 <p align="right">
   <a href="https://github.com/Raja58">
-    <img height="170em" title="get streak" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja58&theme=monokai-metallian&hide_border=true"/>
+    <img height="165em" title="get streak" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja58&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
